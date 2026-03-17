@@ -128,5 +128,6 @@ This leads to poor user experience and low conversion rates.
 
 ---
 
-## 📄 Case Study Document
-(Add your case study / PDF / portfolio link here)
+## 📊 Presentation (PPT)
+
+[Download the UI/UX Presentation](Haven%20Finder-Redesign%20(1).key)
