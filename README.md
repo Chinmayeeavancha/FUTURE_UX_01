@@ -53,7 +53,32 @@ This leads to poor user experience and low conversion rates.
 
 ### 4. Contact Page
 - Minimal contact form  
-- Quick inquiry process  
+- Quick inquiry process
+
+- ## 📱 Screen Layouts
+
+### 🏠 Home Screen
+<img src="Home%20(2).png" width="700"/>
+
+---
+
+### 🔍 Explore Screen
+<img src="Explore.png" width="700"/>
+
+---
+
+### 🏡 Properties Screen
+<img src="Properties.png" width="700"/>
+
+---
+
+### ⭐ Review Screen
+<img src="Review.png" width="700"/>
+
+---
+
+### 📞 Contact Screen
+<img src="Contact.png" width="700"/>
 
 ---
 
