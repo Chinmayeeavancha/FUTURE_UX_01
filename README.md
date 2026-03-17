@@ -124,7 +124,7 @@ This leads to poor user experience and low conversion rates.
 ---
 
 ## 🔗 Prototype Link
-(Add your Figma prototype link here)
+(https://www.figma.com/proto/RrImAnTOiAKbTDd5g8QFlQ/Untitled?node-id=86-71&t=QVS7BDa6U1meVS0p-0&scaling=min-zoom&content-scaling=fixed&page-id=0%3A1&starting-point-node-id=86%3A71)
 
 ---
 
